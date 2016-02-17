@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    151101_Shannon
+    檔案說明：
+    1. 此為定義字體大小的dimen檔案
+    2. 大部分的字體大小請統一使用共用的變數
+    3. 少數特例的字體大小，在各個解析度及裝置需要額外作調整的，才可獨立拉成變數控制
+    -->
+
+    <!-- 共用 -->
+    <dimen name="text_size_xxxlarge">26sp</dimen>
+    <dimen name="text_size_xxlarge">24sp</dimen>
+    <dimen name="text_size_xlarge">22sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_small">16sp</dimen>
+    <dimen name="text_size_xsmall">14sp</dimen>
+    <dimen name="text_size_xxsmall">12sp</dimen>
+    <dimen name="text_size_xxxsmall">10sp</dimen>
+
+</resources>

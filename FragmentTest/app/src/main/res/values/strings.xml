@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentTest</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="container_is_null_title">Fragment container is null</string>
+    <string name="container_is_not_null_title">Fragment container is not null</string>
+    <string name="open_fl">以 FrameLayout 開啟</string>
+    <string name="open_ll_v">以 LinearLayout Vertical 開啟</string>
+    <string name="open_ll_h">以 LinearLayout Horizontal 開啟</string>
+
+</resources>

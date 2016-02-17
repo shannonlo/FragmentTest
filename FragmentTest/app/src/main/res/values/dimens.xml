@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- 共用 -->
+    <dimen name="tableview_text_padding_horizontal">20dp</dimen>
+    <dimen name="tableview_text_padding_inside_vertical">12dp</dimen>
+    <dimen name="tableview_text_title_padding_vertical_top">40dp</dimen>
+    <dimen name="tableview_text_title_padding_vertical_bottom">8dp</dimen>
+
+</resources>
